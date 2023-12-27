@@ -1,6 +1,13 @@
 <h1 align="center"><b>Language Translator App</b></h1>
 
-<h2 align="center">A web application to translate multiple languages</h2>    
+<h2 align="center">A web application to translate multiple languages</h2> 
+
+<h1 align="center"><b>
+    
+![languageTranslator](https://github.com/thebarunkumar/Translation-App/assets/77458180/e593774b-b5ca-47db-b587-7bba732161a8)
+    
+</b></h1>
+   
 
 <br />
 
