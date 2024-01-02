@@ -35,6 +35,6 @@ This project is about building a web application to translate languages using la
 
 ## Getting Started
 
-This project was built using React, Rest API, JavaScript and CSS. It is a web application and for running on your local environment you should follow these guidelines.
+This project was built using React, Rest API, JavaScript and CSS. It is a web application and for running on your local environment.
 
 
